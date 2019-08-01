@@ -1,0 +1,58 @@
+.tp-caption a {
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+
+.trizzycaption_darkbg h3 {
+    color: #fff;
+	font-size: 16px !important;
+	padding-bottom: 10px;
+	margin: 0;
+	line-height: 22px;
+	font-weight: 700;
+	position: relative;
+    text-transform: uppercase;
+	display: block;
+	letter-spacing: 0;
+  }
+  .trizzycaption_darkbg p {
+  	margin: 0;
+	line-height: 22px;
+	font-size: 14px !important;
+	color: #bbb;
+	display: none;
+	display: block;
+	position: relative;
+	float: left;
+    }
